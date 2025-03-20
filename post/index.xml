@@ -5,12 +5,28 @@
     <link>https://ds-litvinov.github.io/post/</link>
       <atom:link href="https://ds-litvinov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ds-litvinov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://ds-litvinov.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://ds-litvinov.github.io/post/02/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ds-litvinov.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-итоги-учебной-недели&#34;&gt;📈 Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;На этой неделе у нас было много интересного:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Разбирались в методах анализа данных — теперь понимаю, как извлекать полезную информацию из большого объема данных. 📊&lt;/li&gt;
+&lt;li&gt;🔹 Изучали основы работы с базами данных и SQL — это прямо в самую цель для будущей работы с информацией.&lt;/li&gt;
+&lt;li&gt;🔹 Оформляли проект по автоматизации бизнес-процессов с использованием новых технологий.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя была продуктивной, и впереди еще много интересных задач! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
