@@ -5,12 +5,29 @@
     <link>https://ds-litvinov.github.io/tags/markdown/</link>
       <atom:link href="https://ds-litvinov.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ds-litvinov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://ds-litvinov.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://ds-litvinov.github.io/post/03/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ds-litvinov.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-итоги-недели--бизнес-информатика&#34;&gt;🧭 Итоги недели — Бизнес-информатика&lt;/h1&gt;
+&lt;p&gt;Неделя получилась выстроенной и без лишнего хаоса. Основное:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 На управленческом учёте — практика с кейсами из реального бизнеса. Учимся анализировать цифры не &amp;ldquo;в вакууме&amp;rdquo;, а по сути.&lt;/li&gt;
+&lt;li&gt;💻 Проектирование ИС — моделировали бизнес-процессы и связи между сущностями. Всё становится чуть более логичным.&lt;/li&gt;
+&lt;li&gt;📊 BI-инструменты: закрепили работу с визуализацией. Построили дашборд, который реально читается.&lt;/li&gt;
+&lt;li&gt;📄 Поговорили о подготовке рабочих отчётов. Как оформить, как структурировать, что в них действительно важно — полезный разбор.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хорошая неделя: без перегрузов, но с акцентом на навыки, которые реально пригодятся.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
