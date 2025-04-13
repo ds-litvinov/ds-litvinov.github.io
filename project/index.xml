@@ -5,7 +5,7 @@
     <link>https://ds-litvinov.github.io/project/</link>
       <atom:link href="https://ds-litvinov.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ds-litvinov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,27 +13,45 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://ds-litvinov.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ds-litvinov.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://ds-litvinov.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ds-litvinov.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://ds-litvinov.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ds-litvinov.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Зачем учёному сайт и как Hugo Academic с этим поможет</title>
+      <link>https://ds-litvinov.github.io/project/hugo/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ds-litvinov.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Представьте: вы написали отличную статью, сделали доклад, запустили исследовательский проект — и всё это легко может затеряться в потоке информации. А теперь представьте место, где всё это собрано воедино, красиво оформлено и всегда под рукой. Да, это — &lt;strong&gt;ваш личный сайт&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;почему-это-важно&#34;&gt;Почему это важно&lt;/h2&gt;
+&lt;p&gt;Для учёного или преподавателя сайт — это не просто &amp;ldquo;для галочки&amp;rdquo;. Это инструмент. Он работает на вас, даже когда вы отдыхаете. Он помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Рассказывать миру, чем вы занимаетесь;&lt;/li&gt;
+&lt;li&gt;Делать публикации доступными;&lt;/li&gt;
+&lt;li&gt;Подчёркивать свою экспертность;&lt;/li&gt;
+&lt;li&gt;Привлекать коллег, студентов и партнёров;&lt;/li&gt;
+&lt;li&gt;Хранить всё важное в одном месте.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Сайт — это как аккуратная полка в цифровом пространстве, где каждая работа найдёт своё место.&lt;/p&gt;
+&lt;h2 id=&#34;а-теперь-про-hugo-academic&#34;&gt;А теперь про Hugo Academic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; — это не просто шаблон. Это настоящая платформа для тех, кто хочет заявить о себе в академическом мире. Без сложностей и с фокусом на содержимое. Всё продумано:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Публикации оформляются автоматически;&lt;/li&gt;
+&lt;li&gt;Есть встроенная поддержка проектов, курсов, мероприятий;&lt;/li&gt;
+&lt;li&gt;Подключаются профили вроде ORCID, Google Scholar и других;&lt;/li&gt;
+&lt;li&gt;Интерфейс адаптивный и минималистичный — без визуального шума.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И главное — всё выглядит стильно и современно.&lt;/p&gt;
+&lt;h2 id=&#34;что-можно-показать&#34;&gt;Что можно показать?&lt;/h2&gt;
+&lt;p&gt;На таком сайте легко разместить:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Биографию и научную траекторию;&lt;/li&gt;
+&lt;li&gt;Публикации и презентации;&lt;/li&gt;
+&lt;li&gt;Курсы и методические материалы;&lt;/li&gt;
+&lt;li&gt;Фото с конференций или лабораторий;&lt;/li&gt;
+&lt;li&gt;Блог с мыслями, обзорами, находками;&lt;/li&gt;
+&lt;li&gt;Контакты и ссылки на внешние ресурсы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;подводим-итог&#34;&gt;Подводим итог&lt;/h2&gt;
+&lt;p&gt;Создание сайта — это не блажь и не прихоть. Это шаг к тому, чтобы ваша работа &lt;strong&gt;жила&lt;/strong&gt; и &lt;strong&gt;работала&lt;/strong&gt; на вас. Hugo Academic — отличный выбор для начала. Он открывает мир академической цифровой самопрезентации. И, признаться, делать такой сайт — это ещё и просто приятно.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Собираетесь завести научный сайт? Это точно хорошая идея. И, возможно, одна из самых продуктивных инвестиций в ваше академическое будущее.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
